@@ -111,7 +111,7 @@ int main(void)
 	
 	HAL_TIM_Base_Start_IT(&htim4);   // 使能定时器 4 中断，用于位置控制
 	
-	HAL_TIM_IC_Start_IT(&htim2, TIM_CHANNEL_1);  // 使能定时器输入捕获通道中断，用于捕获 PWM 信号，计算频率和占空比
+	HAL_TIM_IC_Start_IT(&htim2, TIM_CHANNEL_1);  // 使能定时器 2 的通道 1 输入捕获通道中断，用于捕获 PWM 信号，计算频率和占空比
 
   HAL_Delay(300);  // 等待 5048 归零
 
