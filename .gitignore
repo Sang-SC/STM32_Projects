@@ -15,3 +15,15 @@
 !/VSAFreqTest/HFVSA/MDK-ARM
 !/VSAFreqTest/HFVSA/MDK-ARM/HFVSA.uvoptx
 !/VSAFreqTest/HFVSA/MDK-ARM/HFVSA.uvprojx
+
+# 项目一子项目：MACCEPA
+!/VSAFreqTest/MACCEPA
+!/VSAFreqTest/MACCEPA/MACCEPA.ioc  
+!/VSAFreqTest/MACCEPA/Core
+!/VSAFreqTest/MACCEPA/Core/Src
+!/VSAFreqTest/MACCEPA/Core/Src/main.c
+!/VSAFreqTest/MACCEPA/User
+!/VSAFreqTest/MACCEPA/User/**
+!/VSAFreqTest/MACCEPA/MDK-ARM
+!/VSAFreqTest/MACCEPA/MDK-ARM/MACCEPA.uvoptx
+!/VSAFreqTest/MACCEPA/MDK-ARM/MACCEPA.uvprojx
