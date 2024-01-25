@@ -1,0 +1,17 @@
+/**
+!.gitignore
+
+# ---------------------------------项目1：VSAFreqTest--------------------------------------
+!/VSAFreqTest
+
+# 项目一子项目：HFVSA
+!/VSAFreqTest/HFVSA
+!/VSAFreqTest/HFVSA/HFVSA.ioc  
+!/VSAFreqTest/HFVSA/Core
+!/VSAFreqTest/HFVSA/Core/Src
+!/VSAFreqTest/HFVSA/Core/Src/main.c
+!/VSAFreqTest/HFVSA/User
+!/VSAFreqTest/HFVSA/User/**
+!/VSAFreqTest/HFVSA/MDK-ARM
+!/VSAFreqTest/HFVSA/MDK-ARM/HFVSA.uvoptx
+!/VSAFreqTest/HFVSA/MDK-ARM/HFVSA.uvprojx
